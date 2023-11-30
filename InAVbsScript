@@ -1,0 +1,1 @@
+Dim objWshSet objWsh = CreateObject (" WScript.Shell " ) objWsh.Run "C: \\ chemin \\ MyCMDScript.bat " . ; , 0, 0SET ( objWsh ) = Nothing
